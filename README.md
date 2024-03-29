@@ -26,3 +26,5 @@ The following **optional** features are implemented:
 - [X] Implement a timer that puts pressure on the user! Choose any time that works and auto submit choices after the timer expires. 
 
 ## Video Walkthrough
+
+![alt-text](TriviaGame.gif)
